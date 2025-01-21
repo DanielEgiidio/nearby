@@ -2,14 +2,14 @@
 
 
 
-###### 📱 Seu aplicativo companheiro para compras locais
+##### 📱 Seu aplicativo companheiro para compras locais
 
 ![](https://github.com/user-attachments/assets/43d4abde-df85-464c-b593-f7afe7fb633d)
 
-###### 📱 Sobre
+##### 📱 Sobre
 O Nearby é uma aplicação fullstack projetada para conectar usuários com ofertas e promoções do comércio local. Desenvolvido com React Native (Expo) no frontend mobile e Node.js no backend, oferece uma experiência completa para descobrir e utilizar cupons de lojas próximas.
 
-###### ✨ Funcionalidades
+##### ✨ Funcionalidades
 
 - 🏪 Navegue por lojas e mercados locais
 - 🎫 Gerenciamento de cupons digitais
@@ -18,14 +18,14 @@ O Nearby é uma aplicação fullstack projetada para conectar usuários com ofer
 
 🛠️ Tecnologias
 
-###### Mobile (Frontend)
+##### Mobile (Frontend)
 - React Native com Expo
 - TypeScript
 - Componentes UI personalizados
 - Integração com leitor de código de barras
 - Serviços de localização
 
-###### Backend (API)
+##### Backend (API)
 
 - Node.js
 - Express.js
@@ -35,7 +35,7 @@ O Nearby é uma aplicação fullstack projetada para conectar usuários com ofer
 - Zod para validação
 
 
-## 🚀 Como Executar
+#### 🚀 Como Executar
 
 **1.** **Clone o repositório**
 ```bash
